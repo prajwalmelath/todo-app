@@ -1,0 +1,13 @@
+.listItem {
+   display: flex;
+   justify-content: space-between;
+   padding-top: 2%;
+   padding-bottom: 2%;
+}
+
+.itemText {
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
